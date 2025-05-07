@@ -1,0 +1,2 @@
+USE uni;
+SELECT * FROM Kunden ORDER BY Kundennr DESC LIMIT 5;
